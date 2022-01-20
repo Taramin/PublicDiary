@@ -8,8 +8,8 @@
         <ul class="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0">
             <li><a href="/greeting" class="nav-link px-2 link-secondary">Home</a></li>
             <li><a href="/collection" class="nav-link px-2 link-dark">Collection</a></li>
-            <li><a href="/friends" class="nav-link px-2 link-dark">Find friends</a></li>
-            <li><a href="/account" class="nav-link px-2 link-dark">My account</a></li>
+            <li><a href="/friends?searchTerm=.*" class="nav-link px-2 link-dark">Find friends</a></li>
+            <li><a th:href="'/account/' +${currentUserId}" class="nav-link px-2 link-dark">My account</a></li>
         </ul>
 
         <div class="col-md-3 text-end">
