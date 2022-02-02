@@ -33,5 +33,5 @@ java -jar target/{project-name}.jar
 
 
 ## Examples <a name = "build"></a>
-<img src="https://psv4.userapi.com/c505536/u122457062/docs/d37/c918371ecf5d/ezgif_com-gif-maker.gif?extra=I4F_hPcXdMs1ybJsMC54rvr2I5dJuYhT0aePyosl25R0_iSc3wPp2_yItxh4uhRho00fhA2RckNVSfuIE7ihuOr3votTvGI3X5UZth4MczozjLS9WDZKAWzj4nU5bjwHhq_8hvYuESyvnbfIbbKLTCUz">
+<img src="ezgif.com-gif-maker.gif">
 
